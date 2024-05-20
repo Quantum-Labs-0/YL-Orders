@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178222818949",
+    "project_id": "yl-orders-b7b52",
+    "storage_bucket": "yl-orders-b7b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178222818949:android:7531c13bf0fe731652ebec",
+        "android_client_info": {
+          "package_name": "com.yoghlabs.ylorders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlK2HFMdi76Lwt08R0WU0_ADHUjEwB91o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
